@@ -1,4 +1,4 @@
-# SystemVerilog-Tutorials
+# SystemVerilog-Tutorials ( Modified by lhking )
 SystemVerilog derslerinde yazdığım kodları içermektedir. <br/>
 
 Youtube'da yayınladığım ders anlatım videolarına aşağıdaki linkten ulaşabilirsiniz. <br/>
